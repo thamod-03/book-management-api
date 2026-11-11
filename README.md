@@ -125,6 +125,3 @@ For local development, use .NET User Secrets. Never commit a real database passw
 
 This is intentionally a simple learning project. It does not include pagination, authentication, authorization, caching, CQRS libraries, message brokers, or deployment automation.
 
-## License
-
-Choose a license before publishing if you want others to reuse or modify the project. For example, the MIT License is a common permissive option. Add a `LICENSE` file only after deciding which license you want to use.
